@@ -27,5 +27,5 @@ Criar a classe Funcionario com os seguintes atributos privados:
  Exibir os dados atualizados.
 
 ## Como Executar o Projeto 
-Para executar o projeto, certifique-se de ter o Flutter/Dart instalado em sua máquina, baixe o repositório e execute o seguinte comando: 
+Para executar o projeto, certifique-se de ter o Flutter/Dart instalado em sua máquina, baixe o repositório, abra o projeto no VSCode e execute o seguinte comando: 
 - `dart run bin/main.dart`
