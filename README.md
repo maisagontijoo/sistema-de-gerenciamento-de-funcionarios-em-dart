@@ -1,4 +1,4 @@
-# Exercícios Sistema de Gerenciamento de Funcionários em dart
+# Exercício Sistema de Gerenciamento de Funcionários em dart
 Este repositório contém a resolução para o seguinte exercício: 
 - Atividade: Sistema de Gerenciamento de Funcionários em Dart
 - Objetivo: Criar uma aplicação em Dart que utilize encapsulamento, métodos e atributos para gerenciar funcionários de uma empresa.
